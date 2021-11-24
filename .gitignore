@@ -1,0 +1,7 @@
+# Project exclude paths
+/advicer/target/
+/analitics/target/
+/application/target/
+/operations/target/
+/portfolio/target/
+/web_api/target/
